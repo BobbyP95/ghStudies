@@ -1,3 +1,6 @@
 Name,Age,Position,Salary,Currency
 Alice,30,Software Engineer,80000,USD
 Bobby,25,Data Analyst,60000,GHC
+Charlie,35,Project Manager,90000,EUR
+David,28,UX Designer,70000,USD
+Eve,32,Product Owner,95000,GBP
